@@ -8,6 +8,7 @@ Awesome Aleph Zero ($AZERO) resources.
 - [Official Docs](https://docs.alephzero.org/aleph-zero/)
 - [Blog](https://alephzero.org/blog/)
 - [Github](https://github.com/aleph-zero-foundation/)
+- [Cardinal: Official Core Developers of Aleph Zero](https://cardinal.co)
 - [Reddit](https://www.reddit.com/r/AlephZero/)
 - [Youtube](https://www.youtube.com/@AlephZero)
 - [Twitter](https://twitter.com/aleph__zero)
