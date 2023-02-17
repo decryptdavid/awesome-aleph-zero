@@ -6,6 +6,7 @@ Awesome Aleph Zero ($AZERO) resources.
 
 - [Aleph Zero](https://alephzero.org/)
 - [Official Docs](https://docs.alephzero.org/aleph-zero/)
+- [Official FAQs](https://docs.alephzero.org/aleph-zero/faq)
 - [Blog](https://alephzero.org/blog/)
 - [Github](https://github.com/aleph-zero-foundation/)
 - [Cardinal: Official Core Developers of Aleph Zero](https://cardinal.co)
