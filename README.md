@@ -17,10 +17,10 @@ Awesome Aleph Zero ($AZERO) resources.
 
 #### Whitepapers
 
-[​Business Whitepaper​](https://assets.alephzero.org/docs/business-whitepaper.pdf)
-[​AlephBFT Whitepaper​](https://arxiv.org/abs/1908.05156)
-[​Threshold ECDSA Whitepaper​](https://eprint.iacr.org/2020/498.pdf)
-[​Trail of Bits Consensus Audit​](https://assets.alephzero.org/docs/trail-of-bits-consensus-audit.pdf)
+- [​Business Whitepaper​](https://assets.alephzero.org/docs/business-whitepaper.pdf)
+- [​AlephBFT Whitepaper​](https://arxiv.org/abs/1908.05156)
+- [​Threshold ECDSA Whitepaper​](https://eprint.iacr.org/2020/498.pdf)
+- [​Trail of Bits Consensus Audit​](https://assets.alephzero.org/docs/trail-of-bits-consensus-audit.pdf)
 
 #### Market Information
 
